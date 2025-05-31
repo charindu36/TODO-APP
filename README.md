@@ -1,17 +1,17 @@
-📝 ToDo App
+# 📝 ToDo App
 A simple and elegant ToDo application. Create, delete, and mark tasks as completed. Clean UI and easy-to-use interface.
 
-🚀 Features
-Add new tasks
+## 🚀 Features
+- Add new tasks
 
-Mark tasks as completed/incomplete
+- Mark tasks as completed/incomplete
 
-Delete tasks
+- Delete tasks
 
-Simple design 
+- Simple design 
 
-🖥️ Tech Stack
+## 🖥️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript 
+- Frontend: HTML, CSS, JavaScript 
 
-Storage: LocalStorage (no backend)
+- Storage: LocalStorage (no backend)
